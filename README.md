@@ -64,13 +64,6 @@ automation, and practical AI.
 - Built internal automation and HR systems using Django, Django REST Framework, PostgreSQL, and Next.js at **UCB Fintech Company Limited (upay)**.
 - Developed responsive React and TypeScript interfaces and integrated REST APIs at **Autopilot AI Solution**.
 
-## GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nafishadipra&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="Nafisha's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafishadipra&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Most used languages" />
-</div>
-
 ---
 
 <div align="center">
